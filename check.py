@@ -9,9 +9,9 @@ from colorama import Fore, Style
 from tabulate import tabulate
 
 websites = [
-    "https://baynat.org",
-    "https://alghathbar.com",
-    "https://fahad.alghathbar.com",
+    "https://GOOGLE.COM",
+    "https://GOOGLE.COM",
+    "https://GOOGLE.COM",
 ]
 
 headers = ["Website", "Status", "HTTP Code"]
